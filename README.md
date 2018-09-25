@@ -1,7 +1,7 @@
 
 ### GoPUBlk
 
-## heroku: https://gopublk.herokuapp.com/
+## heroku: https://my-gopublk.herokuapp.com/
 
 We created GoPUBLk to find common ground where investers and entrepreneurs can post and invest in startup projects.
 
