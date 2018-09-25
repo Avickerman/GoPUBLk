@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Hero from "../../components/Hero";
 import API from "../../utils/API";
 import "./Results.css";
-import { ResultsList } from "../../components/List/ResultsList";
+import { ResultsList } from "../../components/List/resultsList.js";
 
 
 

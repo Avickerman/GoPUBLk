@@ -1,3 +1,3 @@
 export * from "./List";
 export * from "./ListItem";
-export * from "./ResultsList"
+export * from "./resultsList"
